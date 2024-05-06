@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/vegetables/validation/garlic</folder>
+    <filename>3.jpg</filename>
+    <path>testsets/vegetables/validation/garlic/3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1760</width>
+        <height>1174</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>garlic</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>152</xmin>
+            <ymin>328</ymin>
+            <xmax>904</xmax>
+            <ymax>1022</ymax>
+        </bndbox>
+    </object>
+</annotation>

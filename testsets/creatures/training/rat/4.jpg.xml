@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/creatures/training/rat</folder>
+    <filename>4.jpg</filename>
+    <path>testsets/creatures/training/rat/4.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1200</width>
+        <height>675</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>rat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>401</xmin>
+            <ymin>127</ymin>
+            <xmax>964</xmax>
+            <ymax>674</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/creatures/training/dog</folder>
+    <filename>2.jpg</filename>
+    <path>testsets/creatures/training/dog/2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1480</width>
+        <height>833</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>dog</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>258</xmin>
+            <ymin>42</ymin>
+            <xmax>872</xmax>
+            <ymax>779</ymax>
+        </bndbox>
+    </object>
+</annotation>

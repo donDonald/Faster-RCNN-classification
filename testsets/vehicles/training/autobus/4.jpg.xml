@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/vehicles/training/autobus</folder>
+    <filename>4.jpg</filename>
+    <path>testsets/vehicles/training/autobus/4.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>225</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>autobus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>35</xmin>
+            <ymin>55</ymin>
+            <xmax>283</xmax>
+            <ymax>173</ymax>
+        </bndbox>
+    </object>
+</annotation>

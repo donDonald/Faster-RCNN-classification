@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/vehicles/training/tractor</folder>
+    <filename>15.jpg</filename>
+    <path>testsets/vehicles/training/tractor/15.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>390</width>
+        <height>280</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tractor</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>77</xmin>
+            <ymin>23</ymin>
+            <xmax>337</xmax>
+            <ymax>241</ymax>
+        </bndbox>
+    </object>
+</annotation>

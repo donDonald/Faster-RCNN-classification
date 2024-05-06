@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/vegetables/training/potato</folder>
+    <filename>4.jpg</filename>
+    <path>testsets/vegetables/training/potato/4.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1400</width>
+        <height>1050</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>potato</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>68</xmin>
+            <ymin>108</ymin>
+            <xmax>1338</xmax>
+            <ymax>944</ymax>
+        </bndbox>
+    </object>
+</annotation>

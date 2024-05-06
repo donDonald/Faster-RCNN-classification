@@ -1,0 +1,26 @@
+<annotation>
+    <folder>{{ annotation.folder }}</folder>
+    <filename>{{ annotation.filename }}</filename>
+    <path>{{ annotation.path }}</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>{{ annotation.size.width }}</width>
+        <height>{{ annotation.size.height }}</height>
+        <depth>{{ annotation.size.depth }}</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>{{ annotation.object.name }}</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>{{ annotation.object.bndbox.xmin }}</xmin>
+            <ymin>{{ annotation.object.bndbox.ymin }}</ymin>
+            <xmax>{{ annotation.object.bndbox.xmax }}</xmax>
+            <ymax>{{ annotation.object.bndbox.ymax }}</ymax>
+        </bndbox>
+    </object>
+</annotation>

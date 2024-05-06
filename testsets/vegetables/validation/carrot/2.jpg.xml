@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/vegetables/validation/carrot</folder>
+    <filename>2.jpg</filename>
+    <path>testsets/vegetables/validation/carrot/2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1691</width>
+        <height>996</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>carrot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>14</xmin>
+            <ymin>172</ymin>
+            <xmax>1357</xmax>
+            <ymax>937</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/creatures/validation/cat</folder>
+    <filename>3.jpg</filename>
+    <path>testsets/creatures/validation/cat/3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>927</width>
+        <height>388</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>405</xmin>
+            <ymin>25</ymin>
+            <xmax>598</xmax>
+            <ymax>332</ymax>
+        </bndbox>
+    </object>
+</annotation>

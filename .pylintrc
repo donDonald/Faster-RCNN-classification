@@ -1,0 +1,8 @@
+[MAIN]
+fail-on=E
+
+indent-string="        "
+
+[FORMAT]
+max-line-length=240
+

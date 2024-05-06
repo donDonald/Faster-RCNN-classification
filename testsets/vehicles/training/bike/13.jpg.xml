@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/vehicles/training/bike</folder>
+    <filename>13.jpg</filename>
+    <path>testsets/vehicles/training/bike/13.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1500</width>
+        <height>1000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>bike</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>395</xmin>
+            <ymin>220</ymin>
+            <xmax>1094</xmax>
+            <ymax>853</ymax>
+        </bndbox>
+    </object>
+</annotation>

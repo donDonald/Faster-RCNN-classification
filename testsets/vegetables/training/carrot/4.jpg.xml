@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/vegetables/training/carrot</folder>
+    <filename>4.jpg</filename>
+    <path>testsets/vegetables/training/carrot/4.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1200</width>
+        <height>1196</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>carrot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>231</xmin>
+            <ymin>83</ymin>
+            <xmax>1082</xmax>
+            <ymax>1112</ymax>
+        </bndbox>
+    </object>
+</annotation>

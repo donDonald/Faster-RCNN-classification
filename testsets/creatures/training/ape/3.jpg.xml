@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/creatures/training/ape</folder>
+    <filename>3.jpg</filename>
+    <path>testsets/creatures/training/ape/3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1400</width>
+        <height>980</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ape</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>132</xmin>
+            <ymin>0</ymin>
+            <xmax>1247</xmax>
+            <ymax>900</ymax>
+        </bndbox>
+    </object>
+</annotation>

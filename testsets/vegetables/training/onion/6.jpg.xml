@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/vegetables/training/onion</folder>
+    <filename>6.jpg</filename>
+    <path>testsets/vegetables/training/onion/6.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1500</width>
+        <height>1500</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>189</xmin>
+            <ymin>279</ymin>
+            <xmax>1047</xmax>
+            <ymax>1128</ymax>
+        </bndbox>
+    </object>
+</annotation>

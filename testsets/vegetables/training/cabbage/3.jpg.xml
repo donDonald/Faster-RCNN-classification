@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/vegetables/training/cabbage</folder>
+    <filename>3.jpg</filename>
+    <path>testsets/vegetables/training/cabbage/3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1200</width>
+        <height>1200</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>cabbage</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>171</xmin>
+            <ymin>153</ymin>
+            <xmax>1099</xmax>
+            <ymax>1019</ymax>
+        </bndbox>
+    </object>
+</annotation>

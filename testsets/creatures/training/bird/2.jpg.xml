@@ -1,0 +1,26 @@
+<annotation>
+    <folder>testsets/creatures/training/bird</folder>
+    <filename>2.jpg</filename>
+    <path>testsets/creatures/training/bird/2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1500</width>
+        <height>999</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>bird</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>524</xmin>
+            <ymin>101</ymin>
+            <xmax>1376</xmax>
+            <ymax>888</ymax>
+        </bndbox>
+    </object>
+</annotation>
