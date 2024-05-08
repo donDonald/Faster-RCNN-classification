@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/env python
 
 import os
 import sys
@@ -44,11 +44,6 @@ class Classificator:
 
                 # Setup datasets
                 self.train_loader, self.valid_loader = Dataset.setup(self.config)
-
-                # Whether to show transformed images from data loader or not
-                if self.config.visualize_transformed_images:
-                        from utils import show_tranformed_image
-                        show_tranformed_image(self.config.device, self.train_loader)
 
 
 

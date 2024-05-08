@@ -48,9 +48,6 @@ class Config:
 
                 self._classes = ['background'] + train_list
 
-                # Whether to visualize images after crearing the data loaders
-                self._visualize_transformed_images = False
-
                 # Location to save model and plots
                 self._out_dir = args.out_dir
                 if not os.path.isdir(self.out_dir):
@@ -106,7 +103,6 @@ class Config:
                     save_model_epoch:{self.save_model_epoch}
                     batch_size:{self.batch_size}
                     resize_to:{self.resize_to}
-                    visualize_transformed_images:{self.visualize_transformed_images}
                 """
 
 
@@ -180,9 +176,3 @@ class Config:
         @property
         def device(self):
                 return self._device
-
-
-        #@visualize_transformed_images.getter
-        @property
-        def visualize_transformed_images(self):
-                return self._visualize_transformed_images
